@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <base href="{{ site.baseurl }}">
+    <title>{{ page.title | liquify }}</title>
+    <link href="{{ "/atom.xml" | relative_url }}" rel="alternate" type="application/atom+xml">
+    <link href="{{ "/rss.xml" | relative_url }}" rel="alternate" type="application/rss+xml">
+  </head>
+  <body>
+    {% include navigation.html %}
+    {{ content }}
+    {% include analytics.html %}
+    {% include disqus_count.html %}
+  </body>
+</html>

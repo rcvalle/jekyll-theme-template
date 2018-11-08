@@ -1,0 +1,13 @@
+---
+layout: default
+type: blog
+---
+
+<main>
+  {% for post in paginator.posts %}
+    {% include post.html post=post %}
+  {% endfor %}
+</main>
+{% if paginator.total_pages > 1 %}
+  {% include pagination.html %}
+{% endif %}

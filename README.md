@@ -1,7 +1,7 @@
 jekyll-theme-template
 =====================
 
-[![Build Status](https://travis-ci.org/rcvalle/jekyll-theme-template.svg?branch=master)](https://travis-ci.org/rcvalle/jekyll-theme-template)
+[![Build Status](https://travis-ci.com/rcvalle/jekyll-theme-template.svg?branch=master)](https://travis-ci.com/rcvalle/jekyll-theme-template)
 
 A Jekyll theme template.
 

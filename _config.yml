@@ -1,4 +1,5 @@
 baseurl: /jekyll-theme-template
+excerpts: true
 exclude:
   - "*.gemspec"
   - "CONTRIBUTING*"

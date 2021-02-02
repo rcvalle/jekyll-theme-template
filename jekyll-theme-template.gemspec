@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   end
   spec.name        = 'jekyll-theme-template'
   spec.summary     = 'A Jekyll theme template.'
-  spec.version     = '0.0.5'
+  spec.version     = '0.0.6'
 
   spec.author      = 'Ramon de C Valle'
   spec.description = ''

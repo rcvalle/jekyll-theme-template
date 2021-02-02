@@ -1,4 +1,6 @@
+author: Ramon de C Valle
 baseurl: /jekyll-theme-template
+description: A Jekyll theme template.
 excerpts: true
 exclude:
   - "*.gemspec"

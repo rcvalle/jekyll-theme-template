@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://rcvalle.github.io/jekyll-theme-template/</id>
+  <link href="https://rcvalle.github.io"/>
+  <link href="https://rcvalle.github.io/jekyll-theme-template/atom.xml" rel="self"/>
+  
+  <subtitle>A Jekyll theme template.</subtitle>
+  <title>Title</title>
+  <updated></updated>
+  
+</feed>
